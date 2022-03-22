@@ -9,7 +9,7 @@
   
   inputs.src-srv-v0_1_0.flake = false;
   inputs.src-srv-v0_1_0.owner = "me7";
-  inputs.src-srv-v0_1_0.ref   = "refs/tags/v0.1.0";
+  inputs.src-srv-v0_1_0.ref   = "v0_1_0";
   inputs.src-srv-v0_1_0.repo  = "srv";
   inputs.src-srv-v0_1_0.type  = "github";
   

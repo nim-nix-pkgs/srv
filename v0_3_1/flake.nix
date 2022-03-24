@@ -1,5 +1,5 @@
 {
-  description = ''A tiny static file web server.'';
+  description = ''Static file web server.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";

@@ -1,0 +1,4 @@
+nimcache/
+srv
+*.zip
+nakefile
